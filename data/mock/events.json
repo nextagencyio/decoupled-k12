@@ -1,0 +1,156 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-back-to-school",
+          "title": "Back to School Night",
+          "path": "/events/back-to-school-night",
+          "body": {
+            "processed": "<p>Join us for our annual Back to School Night! Meet your child's teachers, tour the classrooms, and learn about the exciting curriculum planned for this school year.</p><h2>Schedule</h2><ul><li>5:30 PM - Welcome in the Auditorium</li><li>6:00 PM - Classroom Visits (follow your child's schedule)</li><li>7:30 PM - PTA Meeting and Refreshments</li></ul>",
+            "summary": "Join us for our annual Back to School Night! Meet your child's teachers, tour the classrooms, and learn about the exciting curriculum planned for this school year.Schedule5:30 PM - Welcome in the Audi"
+          },
+          "eventDate": {
+            "timestamp": 1788906600
+          },
+          "endDate": {
+            "timestamp": 1788915600
+          },
+          "location": "Main Campus",
+          "eventType": [
+            {
+              "id": "orientation",
+              "name": "orientation"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80",
+            "alt": "Back to School Night",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-science-fair",
+          "title": "Spring Science Fair",
+          "path": "/events/spring-science-fair",
+          "body": {
+            "processed": "<p>Students from grades 3-12 showcase their scientific investigations and engineering projects. Judges from local universities and industry partners will evaluate entries and award prizes in multiple categories.</p><p>All families and community members are welcome to attend and view the projects.</p>",
+            "summary": "Students from grades 3-12 showcase their scientific investigations and engineering projects. Judges from local universities and industry partners will evaluate entries and award prizes in multiple cat"
+          },
+          "eventDate": {
+            "timestamp": 1776866400
+          },
+          "endDate": {
+            "timestamp": 1776888000
+          },
+          "location": "Gymnasium",
+          "eventType": [
+            {
+              "id": "academic",
+              "name": "academic"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+            "alt": "Spring Science Fair",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-spring-concert",
+          "title": "Spring Concert & Art Show",
+          "path": "/events/spring-concert",
+          "body": {
+            "processed": "<p>Enjoy an evening of music, dance, and visual arts as students from all grade levels perform and display their creative work. The concert features performances by our band, orchestra, choir, and dance ensemble.</p><p>An art gallery showcasing student paintings, sculptures, and photography will be open before and after the performances.</p>",
+            "summary": "Enjoy an evening of music, dance, and visual arts as students from all grade levels perform and display their creative work. The concert features performances by our band, orchestra, choir, and dance "
+          },
+          "eventDate": {
+            "timestamp": 1778886000
+          },
+          "endDate": {
+            "timestamp": 1778896800
+          },
+          "location": "Performing Arts Center",
+          "eventType": [
+            {
+              "id": "performance",
+              "name": "performance"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+            "alt": "Spring Concert",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

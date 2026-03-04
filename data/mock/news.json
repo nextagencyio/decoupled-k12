@@ -1,0 +1,138 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-stem-award",
+          "title": "Riverside Academy Wins Regional STEM Award",
+          "path": "/news/stem-award",
+          "body": {
+            "processed": "<p>Riverside K-12 Academy has been recognized as a top STEM school in the region by the National Science Education Foundation. The award highlights our innovative curriculum, dedicated teacher, and outstanding student achievement in science and technology.</p><p>\"This award reflects the hard work of our teachers and the curiosity of our students,\" said Principal Dr. Angela Torres. \"We are committed to preparing our students for the challenges and opportunities of tomorrow.\"</p>",
+            "summary": "Riverside K-12 Academy has been recognized as a top STEM school in the region by the National Science Education Foundation. The award highlights our innovative curriculum, dedicated teacher, and outst"
+          },
+          "category": [
+            {
+              "id": "achievements",
+              "name": "achievements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+            "alt": "STEM Award",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-new-playground",
+          "title": "New Playground Opens for Elementary Students",
+          "path": "/news/new-playground",
+          "body": {
+            "processed": "<p>We are excited to announce the opening of our brand-new playground, featuring state-of-the-art equipment designed to promote physical activity and imaginative play. The playground includes accessible features ensuring all students can participate.</p><p>The project was made possible through generous donations from the PTA and local businesses. A ribbon-cutting ceremony was held with students, parents, and community leaders in attendance.</p>",
+            "summary": "We are excited to announce the opening of our brand-new playground, featuring state-of-the-art equipment designed to promote physical activity and imaginative play. The playground includes accessible "
+          },
+          "category": [
+            {
+              "id": "campus-updates",
+              "name": "campus-updates"
+            }
+          ],
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+            "alt": "New Playground",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-reading-challenge",
+          "title": "Students Read Over 10,000 Books in Annual Reading Challenge",
+          "path": "/news/reading-challenge-results",
+          "body": {
+            "processed": "<p>Riverside students exceeded all expectations in this year's annual reading challenge, collectively reading over 10,000 books in just one semester. The challenge encouraged students across all grade levels to explore new genres and develop a love of reading.</p><p>Top readers from each grade level were recognized at a special assembly, and the school library received a donation of 500 new titles as a reward for meeting the school-wide goal.</p>",
+            "summary": "Riverside students exceeded all expectations in this year's annual reading challenge, collectively reading over 10,000 books in just one semester. The challenge encouraged students across all grade le"
+          },
+          "category": [
+            {
+              "id": "achievements",
+              "name": "achievements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+            "alt": "Reading Challenge",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Riverside K-12 Academy",
+          "path": "/homepage",
+          "heroTitle": "Inspiring Young Minds",
+          "heroSubtitle": "Excellence in Education, K through 12",
+          "heroDescription": {
+            "processed": "<p>At Riverside K-12 Academy, we nurture curiosity, build character, and prepare students for a lifetime of learning. Our dedicated teachers and innovative programs create a supportive environment where every child thrives.</p>",
+            "summary": "At Riverside K-12 Academy, we nurture curiosity, build character, and prepare students for a lifetime of learning. Our dedicated teachers and innovative programs create a supportive environment where "
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-students",
+              "title": "",
+              "number": "1,200+",
+              "label": "Students"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-teachers",
+              "title": "",
+              "number": "85+",
+              "label": "Teachers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-programs",
+              "title": "",
+              "number": "40+",
+              "label": "Programs"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-graduation",
+              "title": "",
+              "number": "98%",
+              "label": "Graduation Rate"
+            }
+          ],
+          "featuredProgramsTitle": "Our Programs",
+          "ctaTitle": "Enroll Your Child Today",
+          "ctaDescription": {
+            "processed": "<p>Enrollment for the 2026-2027 school year is now open. Give your child the gift of an exceptional education.</p>",
+            "summary": "Enrollment for the 2026-2027 school year is now open. Give your child the gift of an exceptional education."
+          },
+          "ctaPrimary": "Enroll Now",
+          "ctaSecondary": "Schedule a Tour"
+        }
+      ]
+    }
+  }
+}

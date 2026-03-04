@@ -1,0 +1,879 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to Riverside K-12 Academy",
+          "path": "/homepage",
+          "heroTitle": "Inspiring Young Minds",
+          "heroSubtitle": "Excellence in Education, K through 12",
+          "heroDescription": {
+            "processed": "<p>At Riverside K-12 Academy, we nurture curiosity, build character, and prepare students for a lifetime of learning. Our dedicated teachers and innovative programs create a supportive environment where every child thrives.</p>",
+            "summary": "At Riverside K-12 Academy, we nurture curiosity, build character, and prepare students for a lifetime of learning. Our dedicated teachers and innovative programs create a supportive environment where "
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-students",
+              "title": "",
+              "number": "1,200+",
+              "label": "Students"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-teachers",
+              "title": "",
+              "number": "85+",
+              "label": "Teachers"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-programs",
+              "title": "",
+              "number": "40+",
+              "label": "Programs"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-graduation",
+              "title": "",
+              "number": "98%",
+              "label": "Graduation Rate"
+            }
+          ],
+          "featuredProgramsTitle": "Our Programs",
+          "ctaTitle": "Enroll Your Child Today",
+          "ctaDescription": {
+            "processed": "<p>Enrollment for the 2026-2027 school year is now open. Give your child the gift of an exceptional education.</p>",
+            "summary": "Enrollment for the 2026-2027 school year is now open. Give your child the gift of an exceptional education."
+          },
+          "ctaPrimary": "Enroll Now",
+          "ctaSecondary": "Schedule a Tour"
+        }
+      }
+    }
+  },
+  "/teachers/maria-martinez": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeacher",
+          "id": "teacher-martinez",
+          "title": "Maria Martinez",
+          "path": "/teachers/maria-martinez",
+          "body": {
+            "processed": "<p>Mrs. Martinez has been teaching mathematics for over 15 years and brings a passion for making complex concepts accessible to all learners. She leads the school's Math Olympiad team and has guided students to numerous regional and state competitions.</p>",
+            "summary": "Mrs. Martinez has been teaching mathematics for over 15 years and brings a passion for making complex concepts accessible to all learners. She leads the school's Math Olympiad team and has guided stud"
+          },
+          "department": [
+            {
+              "id": "mathematics",
+              "name": "mathematics"
+            }
+          ],
+          "email": "mmartinez@riversidek12.edu",
+          "phone": "(555) 101-2001",
+          "office": "Room 204, Main Building",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+            "alt": "Maria Martinez",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "Algebra",
+            "Geometry",
+            "AP Calculus"
+          ]
+        }
+      }
+    }
+  },
+  "/teachers/david-chen": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeacher",
+          "id": "teacher-chen",
+          "title": "David Chen",
+          "path": "/teachers/david-chen",
+          "body": {
+            "processed": "<p>Mr. Chen is an award-winning science teacher who specializes in hands-on, inquiry-based learning. His students consistently score above average on standardized science assessments, and his after-school robotics club has won multiple regional championships.</p>",
+            "summary": "Mr. Chen is an award-winning science teacher who specializes in hands-on, inquiry-based learning. His students consistently score above average on standardized science assessments, and his after-schoo"
+          },
+          "department": [
+            {
+              "id": "science",
+              "name": "science"
+            }
+          ],
+          "email": "dchen@riversidek12.edu",
+          "phone": "(555) 101-2002",
+          "office": "Room 310, Science Wing",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+            "alt": "David Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "Biology",
+            "Chemistry",
+            "Robotics"
+          ]
+        }
+      }
+    }
+  },
+  "/teachers/sarah-williams": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeacher",
+          "id": "teacher-williams",
+          "title": "Sarah Williams",
+          "path": "/teachers/sarah-williams",
+          "body": {
+            "processed": "<p>Ms. Williams is a passionate English teacher who inspires students to discover the joy of reading and creative writing. She directs the school's annual literary magazine and drama productions, fostering creativity across grade levels.</p>",
+            "summary": "Ms. Williams is a passionate English teacher who inspires students to discover the joy of reading and creative writing. She directs the school's annual literary magazine and drama productions, fosteri"
+          },
+          "department": [
+            {
+              "id": "english",
+              "name": "english"
+            }
+          ],
+          "email": "swilliams@riversidek12.edu",
+          "phone": "(555) 101-2003",
+          "office": "Room 118, Humanities Building",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+            "alt": "Sarah Williams",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "English Literature",
+            "Creative Writing",
+            "Drama"
+          ]
+        }
+      }
+    }
+  },
+  "/teachers/james-jackson": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeTeacher",
+          "id": "teacher-jackson",
+          "title": "James Jackson",
+          "path": "/teachers/james-jackson",
+          "body": {
+            "processed": "<p>Coach Jackson teaches physical education and health while leading the varsity basketball and track programs. A former collegiate athlete, he emphasizes sportsmanship, teamwork, and lifelong fitness habits in all his classes.</p>",
+            "summary": "Coach Jackson teaches physical education and health while leading the varsity basketball and track programs. A former collegiate athlete, he emphasizes sportsmanship, teamwork, and lifelong fitness ha"
+          },
+          "department": [
+            {
+              "id": "athletics",
+              "name": "athletics"
+            }
+          ],
+          "email": "jjackson@riversidek12.edu",
+          "phone": "(555) 101-2004",
+          "office": "Gymnasium Office",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+            "alt": "James Jackson",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "Physical Education",
+            "Health",
+            "Coaching"
+          ]
+        }
+      }
+    }
+  },
+  "/programs/stem-academy": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-stem",
+          "title": "STEM Academy",
+          "path": "/programs/stem-academy",
+          "body": {
+            "processed": "<p>Our STEM Academy provides an integrated approach to Science, Technology, Engineering, and Mathematics education. Students engage in project-based learning, coding workshops, and robotics competitions that develop critical thinking and problem-solving skills.</p><h2>Highlights</h2><ul><li>Dedicated STEM lab with 3D printers and robotics equipment</li><li>Partnerships with local tech companies for mentorship</li><li>Annual science fair and engineering design challenges</li><li>Coding curriculum from elementary through high school</li></ul>",
+            "summary": "Our STEM Academy provides an integrated approach to Science, Technology, Engineering, and Mathematics education. Students engage in project-based learning, coding workshops, and robotics competitions "
+          },
+          "gradeLevel": [
+            {
+              "id": "middle-school",
+              "name": "middle-school"
+            },
+            {
+              "id": "high-school",
+              "name": "high-school"
+            }
+          ],
+          "department": [
+            {
+              "id": "science",
+              "name": "science"
+            }
+          ],
+          "schedule": "Daily, integrated into core classes",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+            "alt": "STEM Academy",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/performing-arts": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-arts",
+          "title": "Performing Arts Program",
+          "path": "/programs/performing-arts",
+          "body": {
+            "processed": "<p>From theater productions to concert performances, our Performing Arts program allows students to explore their creative talents. Students learn music theory, acting techniques, dance, and stagecraft in a supportive, collaborative environment.</p><h2>Offerings</h2><ul><li>Concert Band and Orchestra</li><li>Choir and Vocal Ensemble</li><li>Drama and Musical Theater</li><li>Dance (Ballet, Modern, Hip-Hop)</li></ul>",
+            "summary": "From theater productions to concert performances, our Performing Arts program allows students to explore their creative talents. Students learn music theory, acting techniques, dance, and stagecraft i"
+          },
+          "gradeLevel": [
+            {
+              "id": "elementary",
+              "name": "elementary"
+            },
+            {
+              "id": "middle-school",
+              "name": "middle-school"
+            },
+            {
+              "id": "high-school",
+              "name": "high-school"
+            }
+          ],
+          "department": [
+            {
+              "id": "arts",
+              "name": "arts"
+            }
+          ],
+          "schedule": "Elective periods and after-school rehearsals",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+            "alt": "Performing Arts Program",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/athletics": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-athletics",
+          "title": "Athletics Program",
+          "path": "/programs/athletics",
+          "body": {
+            "processed": "<p>Our comprehensive athletics program promotes physical fitness, teamwork, and sportsmanship. We offer varsity, junior varsity, and recreational sports for students of all skill levels.</p><h2>Sports Offered</h2><ul><li>Basketball, Soccer, Baseball, Softball</li><li>Track and Field, Cross Country</li><li>Swimming and Diving</li><li>Tennis, Volleyball</li></ul>",
+            "summary": "Our comprehensive athletics program promotes physical fitness, teamwork, and sportsmanship. We offer varsity, junior varsity, and recreational sports for students of all skill levels.Sports OfferedBas"
+          },
+          "gradeLevel": [
+            {
+              "id": "middle-school",
+              "name": "middle-school"
+            },
+            {
+              "id": "high-school",
+              "name": "high-school"
+            }
+          ],
+          "department": [
+            {
+              "id": "athletics",
+              "name": "athletics"
+            }
+          ],
+          "schedule": "After school, 3:30 PM - 5:30 PM",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+            "alt": "Athletics Program",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/programs/early-learning": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeProgram",
+          "id": "program-early-learning",
+          "title": "Early Learning Center",
+          "path": "/programs/early-learning",
+          "body": {
+            "processed": "<p>Our Early Learning Center provides a nurturing, play-based environment for our youngest learners in grades K-2. Through guided exploration, storytime, and creative activities, children develop foundational literacy, numeracy, and social skills.</p><h2>Program Features</h2><ul><li>Small class sizes with dedicated teaching assistants</li><li>Play-based and Montessori-inspired curriculum</li><li>Outdoor learning garden and nature exploration</li><li>Social-emotional learning integration</li></ul>",
+            "summary": "Our Early Learning Center provides a nurturing, play-based environment for our youngest learners in grades K-2. Through guided exploration, storytime, and creative activities, children develop foundat"
+          },
+          "gradeLevel": [
+            {
+              "id": "elementary",
+              "name": "elementary"
+            }
+          ],
+          "department": [
+            {
+              "id": "early-childhood",
+              "name": "early-childhood"
+            }
+          ],
+          "schedule": "Full day, 8:00 AM - 3:00 PM",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            "alt": "Early Learning Center",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/back-to-school-night": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-back-to-school",
+          "title": "Back to School Night",
+          "path": "/events/back-to-school-night",
+          "body": {
+            "processed": "<p>Join us for our annual Back to School Night! Meet your child's teachers, tour the classrooms, and learn about the exciting curriculum planned for this school year.</p><h2>Schedule</h2><ul><li>5:30 PM - Welcome in the Auditorium</li><li>6:00 PM - Classroom Visits (follow your child's schedule)</li><li>7:30 PM - PTA Meeting and Refreshments</li></ul>",
+            "summary": "Join us for our annual Back to School Night! Meet your child's teachers, tour the classrooms, and learn about the exciting curriculum planned for this school year.Schedule5:30 PM - Welcome in the Audi"
+          },
+          "eventDate": {
+            "timestamp": 1788906600
+          },
+          "endDate": {
+            "timestamp": 1788915600
+          },
+          "location": "Main Campus",
+          "eventType": [
+            {
+              "id": "orientation",
+              "name": "orientation"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80",
+            "alt": "Back to School Night",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/spring-science-fair": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-science-fair",
+          "title": "Spring Science Fair",
+          "path": "/events/spring-science-fair",
+          "body": {
+            "processed": "<p>Students from grades 3-12 showcase their scientific investigations and engineering projects. Judges from local universities and industry partners will evaluate entries and award prizes in multiple categories.</p><p>All families and community members are welcome to attend and view the projects.</p>",
+            "summary": "Students from grades 3-12 showcase their scientific investigations and engineering projects. Judges from local universities and industry partners will evaluate entries and award prizes in multiple cat"
+          },
+          "eventDate": {
+            "timestamp": 1776866400
+          },
+          "endDate": {
+            "timestamp": 1776888000
+          },
+          "location": "Gymnasium",
+          "eventType": [
+            {
+              "id": "academic",
+              "name": "academic"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+            "alt": "Spring Science Fair",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/spring-concert": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-spring-concert",
+          "title": "Spring Concert & Art Show",
+          "path": "/events/spring-concert",
+          "body": {
+            "processed": "<p>Enjoy an evening of music, dance, and visual arts as students from all grade levels perform and display their creative work. The concert features performances by our band, orchestra, choir, and dance ensemble.</p><p>An art gallery showcasing student paintings, sculptures, and photography will be open before and after the performances.</p>",
+            "summary": "Enjoy an evening of music, dance, and visual arts as students from all grade levels perform and display their creative work. The concert features performances by our band, orchestra, choir, and dance "
+          },
+          "eventDate": {
+            "timestamp": 1778886000
+          },
+          "endDate": {
+            "timestamp": 1778896800
+          },
+          "location": "Performing Arts Center",
+          "eventType": [
+            {
+              "id": "performance",
+              "name": "performance"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+            "alt": "Spring Concert",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/stem-award": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-stem-award",
+          "title": "Riverside Academy Wins Regional STEM Award",
+          "path": "/news/stem-award",
+          "body": {
+            "processed": "<p>Riverside K-12 Academy has been recognized as a top STEM school in the region by the National Science Education Foundation. The award highlights our innovative curriculum, dedicated teacher, and outstanding student achievement in science and technology.</p><p>\"This award reflects the hard work of our teachers and the curiosity of our students,\" said Principal Dr. Angela Torres. \"We are committed to preparing our students for the challenges and opportunities of tomorrow.\"</p>",
+            "summary": "Riverside K-12 Academy has been recognized as a top STEM school in the region by the National Science Education Foundation. The award highlights our innovative curriculum, dedicated teacher, and outst"
+          },
+          "category": [
+            {
+              "id": "achievements",
+              "name": "achievements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+            "alt": "STEM Award",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/new-playground": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-new-playground",
+          "title": "New Playground Opens for Elementary Students",
+          "path": "/news/new-playground",
+          "body": {
+            "processed": "<p>We are excited to announce the opening of our brand-new playground, featuring state-of-the-art equipment designed to promote physical activity and imaginative play. The playground includes accessible features ensuring all students can participate.</p><p>The project was made possible through generous donations from the PTA and local businesses. A ribbon-cutting ceremony was held with students, parents, and community leaders in attendance.</p>",
+            "summary": "We are excited to announce the opening of our brand-new playground, featuring state-of-the-art equipment designed to promote physical activity and imaginative play. The playground includes accessible "
+          },
+          "category": [
+            {
+              "id": "campus-updates",
+              "name": "campus-updates"
+            }
+          ],
+          "featured": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+            "alt": "New Playground",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/reading-challenge-results": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-reading-challenge",
+          "title": "Students Read Over 10,000 Books in Annual Reading Challenge",
+          "path": "/news/reading-challenge-results",
+          "body": {
+            "processed": "<p>Riverside students exceeded all expectations in this year's annual reading challenge, collectively reading over 10,000 books in just one semester. The challenge encouraged students across all grade levels to explore new genres and develop a love of reading.</p><p>Top readers from each grade level were recognized at a special assembly, and the school library received a donation of 500 new titles as a reward for meeting the school-wide goal.</p>",
+            "summary": "Riverside students exceeded all expectations in this year's annual reading challenge, collectively reading over 10,000 books in just one semester. The challenge encouraged students across all grade le"
+          },
+          "category": [
+            {
+              "id": "achievements",
+              "name": "achievements"
+            }
+          ],
+          "featured": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+            "alt": "Reading Challenge",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About Riverside K-12 Academy",
+          "path": "/about",
+          "body": {
+            "processed": "<p>Founded in 2005, Riverside K-12 Academy provides a comprehensive education for students from kindergarten through twelfth grade. Our mission is to inspire academic excellence, foster character development, and prepare students to become responsible, engaged citizens.</p><h2>Our Values</h2><ul><li><strong>Excellence</strong> - We set high expectations and support every student in reaching their full potential.</li><li><strong>Character</strong> - We cultivate integrity, respect, and responsibility in all members of our community.</li><li><strong>Community</strong> - We believe in the power of collaboration between families, teachers, and the broader community.</li><li><strong>Innovation</strong> - We embrace creative approaches to teaching and learning.</li></ul><h2>Accreditation</h2><p>Riverside K-12 Academy is fully accredited by the Western Association of Schools and Colleges (WASC) and meets all state educational standards.</p>",
+            "summary": "Founded in 2005, Riverside K-12 Academy provides a comprehensive education for students from kindergarten through twelfth grade. Our mission is to inspire academic excellence, foster character develop"
+          }
+        }
+      }
+    }
+  },
+  "/admissions": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-admissions",
+          "title": "Admissions & Enrollment",
+          "path": "/admissions",
+          "body": {
+            "processed": "<h2>Enrollment Process</h2><p>We welcome applications from families seeking an exceptional education for their children. Our admissions process is straightforward and designed to help you find the right fit for your child.</p><h2>Steps to Enroll</h2><ul><li><strong>Submit Application:</strong> Complete our online application form</li><li><strong>Campus Tour:</strong> Schedule a visit to see our facilities and meet our staff</li><li><strong>Assessment:</strong> Grade-appropriate placement assessment</li><li><strong>Enrollment:</strong> Complete registration and submit required documents</li></ul><h2>Important Dates</h2><ul><li><strong>Open Enrollment:</strong> February 1 - April 30</li><li><strong>Late Registration:</strong> May 1 - August 1</li><li><strong>First Day of School:</strong> August 25, 2026</li></ul>",
+            "summary": "Enrollment ProcessWe welcome applications from families seeking an exceptional education for their children. Our admissions process is straightforward and designed to help you find the right fit for y"
+          }
+        }
+      }
+    }
+  }
+}

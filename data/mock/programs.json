@@ -1,0 +1,221 @@
+{
+  "data": {
+    "nodePrograms": {
+      "__typename": "NodeProgramConnection",
+      "nodes": [
+        {
+          "__typename": "NodeProgram",
+          "id": "program-stem",
+          "title": "STEM Academy",
+          "path": "/programs/stem-academy",
+          "body": {
+            "processed": "<p>Our STEM Academy provides an integrated approach to Science, Technology, Engineering, and Mathematics education. Students engage in project-based learning, coding workshops, and robotics competitions that develop critical thinking and problem-solving skills.</p><h2>Highlights</h2><ul><li>Dedicated STEM lab with 3D printers and robotics equipment</li><li>Partnerships with local tech companies for mentorship</li><li>Annual science fair and engineering design challenges</li><li>Coding curriculum from elementary through high school</li></ul>",
+            "summary": "Our STEM Academy provides an integrated approach to Science, Technology, Engineering, and Mathematics education. Students engage in project-based learning, coding workshops, and robotics competitions "
+          },
+          "gradeLevel": [
+            {
+              "id": "middle-school",
+              "name": "middle-school"
+            },
+            {
+              "id": "high-school",
+              "name": "high-school"
+            }
+          ],
+          "department": [
+            {
+              "id": "science",
+              "name": "science"
+            }
+          ],
+          "schedule": "Daily, integrated into core classes",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+            "alt": "STEM Academy",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-arts",
+          "title": "Performing Arts Program",
+          "path": "/programs/performing-arts",
+          "body": {
+            "processed": "<p>From theater productions to concert performances, our Performing Arts program allows students to explore their creative talents. Students learn music theory, acting techniques, dance, and stagecraft in a supportive, collaborative environment.</p><h2>Offerings</h2><ul><li>Concert Band and Orchestra</li><li>Choir and Vocal Ensemble</li><li>Drama and Musical Theater</li><li>Dance (Ballet, Modern, Hip-Hop)</li></ul>",
+            "summary": "From theater productions to concert performances, our Performing Arts program allows students to explore their creative talents. Students learn music theory, acting techniques, dance, and stagecraft i"
+          },
+          "gradeLevel": [
+            {
+              "id": "elementary",
+              "name": "elementary"
+            },
+            {
+              "id": "middle-school",
+              "name": "middle-school"
+            },
+            {
+              "id": "high-school",
+              "name": "high-school"
+            }
+          ],
+          "department": [
+            {
+              "id": "arts",
+              "name": "arts"
+            }
+          ],
+          "schedule": "Elective periods and after-school rehearsals",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+            "alt": "Performing Arts Program",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-athletics",
+          "title": "Athletics Program",
+          "path": "/programs/athletics",
+          "body": {
+            "processed": "<p>Our comprehensive athletics program promotes physical fitness, teamwork, and sportsmanship. We offer varsity, junior varsity, and recreational sports for students of all skill levels.</p><h2>Sports Offered</h2><ul><li>Basketball, Soccer, Baseball, Softball</li><li>Track and Field, Cross Country</li><li>Swimming and Diving</li><li>Tennis, Volleyball</li></ul>",
+            "summary": "Our comprehensive athletics program promotes physical fitness, teamwork, and sportsmanship. We offer varsity, junior varsity, and recreational sports for students of all skill levels.Sports OfferedBas"
+          },
+          "gradeLevel": [
+            {
+              "id": "middle-school",
+              "name": "middle-school"
+            },
+            {
+              "id": "high-school",
+              "name": "high-school"
+            }
+          ],
+          "department": [
+            {
+              "id": "athletics",
+              "name": "athletics"
+            }
+          ],
+          "schedule": "After school, 3:30 PM - 5:30 PM",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+            "alt": "Athletics Program",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1556761175-4b46a572b786?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeProgram",
+          "id": "program-early-learning",
+          "title": "Early Learning Center",
+          "path": "/programs/early-learning",
+          "body": {
+            "processed": "<p>Our Early Learning Center provides a nurturing, play-based environment for our youngest learners in grades K-2. Through guided exploration, storytime, and creative activities, children develop foundational literacy, numeracy, and social skills.</p><h2>Program Features</h2><ul><li>Small class sizes with dedicated teaching assistants</li><li>Play-based and Montessori-inspired curriculum</li><li>Outdoor learning garden and nature exploration</li><li>Social-emotional learning integration</li></ul>",
+            "summary": "Our Early Learning Center provides a nurturing, play-based environment for our youngest learners in grades K-2. Through guided exploration, storytime, and creative activities, children develop foundat"
+          },
+          "gradeLevel": [
+            {
+              "id": "elementary",
+              "name": "elementary"
+            }
+          ],
+          "department": [
+            {
+              "id": "early-childhood",
+              "name": "early-childhood"
+            }
+          ],
+          "schedule": "Full day, 8:00 AM - 3:00 PM",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            "alt": "Early Learning Center",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

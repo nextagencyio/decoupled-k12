@@ -1,0 +1,209 @@
+{
+  "data": {
+    "nodeTeachers": {
+      "__typename": "NodeTeacherConnection",
+      "nodes": [
+        {
+          "__typename": "NodeTeacher",
+          "id": "teacher-martinez",
+          "title": "Maria Martinez",
+          "path": "/teachers/maria-martinez",
+          "body": {
+            "processed": "<p>Mrs. Martinez has been teaching mathematics for over 15 years and brings a passion for making complex concepts accessible to all learners. She leads the school's Math Olympiad team and has guided students to numerous regional and state competitions.</p>",
+            "summary": "Mrs. Martinez has been teaching mathematics for over 15 years and brings a passion for making complex concepts accessible to all learners. She leads the school's Math Olympiad team and has guided stud"
+          },
+          "department": [
+            {
+              "id": "mathematics",
+              "name": "mathematics"
+            }
+          ],
+          "email": "mmartinez@riversidek12.edu",
+          "phone": "(555) 101-2001",
+          "office": "Room 204, Main Building",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+            "alt": "Maria Martinez",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "Algebra",
+            "Geometry",
+            "AP Calculus"
+          ]
+        },
+        {
+          "__typename": "NodeTeacher",
+          "id": "teacher-chen",
+          "title": "David Chen",
+          "path": "/teachers/david-chen",
+          "body": {
+            "processed": "<p>Mr. Chen is an award-winning science teacher who specializes in hands-on, inquiry-based learning. His students consistently score above average on standardized science assessments, and his after-school robotics club has won multiple regional championships.</p>",
+            "summary": "Mr. Chen is an award-winning science teacher who specializes in hands-on, inquiry-based learning. His students consistently score above average on standardized science assessments, and his after-schoo"
+          },
+          "department": [
+            {
+              "id": "science",
+              "name": "science"
+            }
+          ],
+          "email": "dchen@riversidek12.edu",
+          "phone": "(555) 101-2002",
+          "office": "Room 310, Science Wing",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+            "alt": "David Chen",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "Biology",
+            "Chemistry",
+            "Robotics"
+          ]
+        },
+        {
+          "__typename": "NodeTeacher",
+          "id": "teacher-williams",
+          "title": "Sarah Williams",
+          "path": "/teachers/sarah-williams",
+          "body": {
+            "processed": "<p>Ms. Williams is a passionate English teacher who inspires students to discover the joy of reading and creative writing. She directs the school's annual literary magazine and drama productions, fostering creativity across grade levels.</p>",
+            "summary": "Ms. Williams is a passionate English teacher who inspires students to discover the joy of reading and creative writing. She directs the school's annual literary magazine and drama productions, fosteri"
+          },
+          "department": [
+            {
+              "id": "english",
+              "name": "english"
+            }
+          ],
+          "email": "swilliams@riversidek12.edu",
+          "phone": "(555) 101-2003",
+          "office": "Room 118, Humanities Building",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+            "alt": "Sarah Williams",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "English Literature",
+            "Creative Writing",
+            "Drama"
+          ]
+        },
+        {
+          "__typename": "NodeTeacher",
+          "id": "teacher-jackson",
+          "title": "James Jackson",
+          "path": "/teachers/james-jackson",
+          "body": {
+            "processed": "<p>Coach Jackson teaches physical education and health while leading the varsity basketball and track programs. A former collegiate athlete, he emphasizes sportsmanship, teamwork, and lifelong fitness habits in all his classes.</p>",
+            "summary": "Coach Jackson teaches physical education and health while leading the varsity basketball and track programs. A former collegiate athlete, he emphasizes sportsmanship, teamwork, and lifelong fitness ha"
+          },
+          "department": [
+            {
+              "id": "athletics",
+              "name": "athletics"
+            }
+          ],
+          "email": "jjackson@riversidek12.edu",
+          "phone": "(555) 101-2004",
+          "office": "Gymnasium Office",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+            "alt": "James Jackson",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "subjects": [
+            "Physical Education",
+            "Health",
+            "Coaching"
+          ]
+        }
+      ]
+    }
+  }
+}
