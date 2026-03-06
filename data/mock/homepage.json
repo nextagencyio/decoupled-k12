@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-students",
               "title": "",
-              "number": "1,200+",
+              "number": "1,200+", "value": "1,200+",
               "label": "Students"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-teachers",
               "title": "",
-              "number": "85+",
+              "number": "85+", "value": "85+",
               "label": "Teachers"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-programs",
               "title": "",
-              "number": "40+",
+              "number": "40+", "value": "40+",
               "label": "Programs"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-graduation",
               "title": "",
-              "number": "98%",
+              "number": "98%", "value": "98%",
               "label": "Graduation Rate"
             }
           ],
