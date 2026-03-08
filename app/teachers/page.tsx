@@ -7,6 +7,7 @@ import Header from '../components/Header'
 import TeacherCard from '../components/TeacherCard'
 
 export const revalidate = 3600
+export const dynamic = 'force-dynamic'
 
 export const metadata: Metadata = {
   title: 'Teachers | Lakeview School District - K-12',
